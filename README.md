@@ -49,7 +49,7 @@ Sistem; gerçek zamanlı motor ve sensör kontrolü için **STM32F407 Discovery*
 
 ## Proje Ekibi
 
-- Mohamed Ismail
+- MohamedEldur Esmaeil 
 - Ehsan Alzarrad
 
 ## Akademik Bilgi
